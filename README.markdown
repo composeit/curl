@@ -1,11 +1,12 @@
 # curl
 
+fork from https://github.com/shuber/curl
+
+Just repackaging for composer
+
 A basic CURL wrapper for PHP (see [http://php.net/curl](http://php.net/curl) for more information about the libcurl extension for PHP)
-
-
 ## Installation
 
-Click the `download` link above or `git clone git://github.com/shuber/curl.git`
 
 
 ## Usage
