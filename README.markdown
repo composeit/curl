@@ -7,7 +7,17 @@ Just repackaging for composer
 A basic CURL wrapper for PHP (see [http://php.net/curl](http://php.net/curl) for more information about the libcurl extension for PHP)
 ## Installation
 
-
+```javascript
+{
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/b3n01t/curl"
+     }],
+     "require": {
+         "b3n01t/curl": "dev-master"
+    }
+}
+```
 
 ## Usage
 
